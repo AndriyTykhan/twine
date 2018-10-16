@@ -1,0 +1,22 @@
+{
+  "name": "twine",
+  "version": "1.0.0",
+  "description": "A command line Twitter client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "twine": "./bin/twine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriyTykhan/twine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriyTykhan/twine/issues"
+  },
+  "homepage": "https://github.com/AndriyTykhan/twine#readme"
+}
